@@ -5,5 +5,7 @@ The idea is to create an app that will provide an emergency message and gps data
 for emergencies that may happen around campus.
 
 Menu: https://developer.android.com/training/implementing-navigation/nav-drawer.html
+
 Google Maps: https://developers.google.com/maps/documentation/android-api/current-place-tutorial
+
 SMS: https://www.mkyong.com/android/how-to-send-sms-message-in-android/
