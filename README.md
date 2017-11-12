@@ -6,6 +6,8 @@ for emergencies that may happen around campus.
 
 Menu: https://developer.android.com/training/implementing-navigation/nav-drawer.html
 
+Menu_2: https://developer.android.com/guide/topics/ui/menus.html
+
 http://blog.teamtreehouse.com/add-navigation-drawer-android
 
 Google Maps: https://developers.google.com/maps/documentation/android-api/current-place-tutorial
